@@ -21,7 +21,7 @@
 
 
 ## Task 3:
-```./gcc 9.3.c -o 9.3```
+```gcc 9.3.c -o 9.3```
 ```./9.3```
 
 ## Cloning the Repository
