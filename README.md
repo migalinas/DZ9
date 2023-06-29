@@ -1,4 +1,5 @@
 # ИНСТРУКЦИЯ ДЛЯ ЗАПУСКА ПРОЕКТА: 
+## I am working on LINUX architecture, so for start on Windows you need special tools!
 ## Notepad/VS Code/Terminal: Открываем терминал (НЕОБХОДИМО перейти в директорию проекта с помощью команы cd %PATH_TO_DIR%) и вводим команды:
 ### 1)Для Windows PowerShell: 
 #### gcc code_file_name.c -o output_file_name.exe
