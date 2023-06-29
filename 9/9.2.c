@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "9_func.c"
 #include "9.h"
 
 
