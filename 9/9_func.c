@@ -3,7 +3,7 @@
 #include <string.h>
 #include "9.h"
 
-#define MAX_LINE_LENGTH 256;
+#define MAX_LINE_LENGTH 256
 
 void initLine(Line* line) {
     line->length = 0;
