@@ -9,6 +9,24 @@
 #### output_file_name.exe
 ## Visual Studio/Code Blocks IDE/ VS Code with Code Runner: 
 ### Запуск и отладка проекта осуществляется через встроенный компилятор VS, поэтому достаточно ишь загрузить и сохранить файлы  с исходным кодом и файлы заголовков в директорию проетка, а дальше активировать работу с кодом с помощью опции "Запуск и отладка".
-## Task 1
-'''gcc 9.1.c -o 9.1'''
+# Commands to start:
+
+## Task 1:
+```gcc 9.1.c -o 9.1```
+```./9.1```
+
+## Task 2:
+```gcc 9.2.c -o 9.2 ```
+```./9.2```
+
+
+## Task 3:
+```./gcc 9.3.c -o 9.3```
+```./9.3```
+
+## Cloning the Repository
+
+Before start clone the repository to your local computer
+
+``` git clone https://github.com/migalinas/DZ9.git ```
  
